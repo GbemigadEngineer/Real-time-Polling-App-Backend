@@ -1,0 +1,22 @@
+{ 
+  "name": "real-time-polling-app-backend",
+  "version": "1.0.0",
+  "description": "Real time polling app using web sockets backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GbemigadEngineer/Real-time-Polling-App-Backend.git"
+  },
+  "author": "GbemigadEngineer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GbemigadEngineer/Real-time-Polling-App-Backend/issues"
+  },
+  "homepage": "https://github.com/GbemigadEngineer/Real-time-Polling-App-Backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

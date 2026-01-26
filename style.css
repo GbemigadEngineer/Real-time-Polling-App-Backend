@@ -48,6 +48,12 @@ body {
   border: 2px solid rgba(255, 255, 255, 0.5);
 }
 
+.progress-box.active {
+  background: rgba(52, 52, 52, 0.1333);
+  border: 2px solid #00ff00;
+  transform: scale(1.1);
+}
+
 .progress-box p {
   color: #fff;
 }

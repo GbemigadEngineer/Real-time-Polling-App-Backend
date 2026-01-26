@@ -72,7 +72,7 @@ body {
 }
 
 .progress-bar span {
-  width: 20%;
+  /* width: 20%; */
   height: 80%;
   background: #00ff00;
   position: absolute;
